@@ -1,0 +1,97 @@
+<html>
+<head>
+    <title>Sofía Paiz</title>
+</head>
+<body>
+
+    <h1>Sofía Paiz</h1>
+    <p>arquera salvadoreña</p>
+
+<main>
+<section>
+    <p>
+        <strong>Sofía Lourdes Paiz García</strong> (13 de mayo de 1997) es una deportista salvadoreña que compite en tiro con arco, en la modalidad de arco compuesto. Ganó una medalla de plata en el Campeonato Mundial de Tiro con Arco al Aire Libre de 2025, en la prueba individual.
+    </p>
+</section>
+
+<section>
+    <h2>Sofía Paiz</h2>
+
+    <h3>Datos personales</h3>
+    <ul>
+        <li><strong>Nombre completo</strong> Sofía Lourdes Paiz García</li>
+        <li><strong>Nacimiento</strong> 13 de mayo de 1997 (28 años)</li>
+    </ul>
+
+    <h3>Carrera deportiva</h3>
+    <ul>
+        <li><strong>Representante de</strong> El Salvador</li>
+        <li><strong>Deporte</strong> Tiro con arco</li>
+    </ul>
+
+    <h3>Medallero</h3>
+
+    <p><strong>Tiro con arco femenino</strong></p>
+
+    <table border="1">
+        <tr>
+            <th>Evento</th>
+            <th>O</th>
+            <th>P</th>
+            <th>B</th>
+        </tr>
+        <tr>
+            <td>Campeonato Mundial al Aire Libre</td>
+            <td>0</td>
+            <td>1</td>
+            <td>0</td>
+        </tr>
+    </table>
+</section>
+
+<section>
+    <h2>Palmarés internacional</h2>
+
+    <h3>Arco compuesto</h3>
+
+    <table border="1">
+        <tr>
+            <th>Año</th>
+            <th>Lugar</th>
+            <th>Medalla</th>
+            <th>Prueba</th>
+        </tr>
+        <tr>
+            <td>2025</td>
+            <td>Gwangju (Corea del Sur)</td>
+            <td>2</td>
+            <td>Individual</td>
+        </tr>
+    </table>
+</section>
+
+<section>
+    <h2>Referencias</h2>
+
+    <ol>
+        <li>
+            <cite>Sofía Paiz. World Archery (en inglés). Consultado el 9 de septiembre de 2025.</cite>
+        </li>
+        <li>
+            <cite>Sofía Paiz. intersportstats.com (en inglés). Consultado el 9 de septiembre de 2025.</cite>
+        </li>
+    </ol>
+
+    <p>Datos: Q121252812</p>
+</section>
+
+</main>
+    <p>
+        Fuente: 
+        <a href="https://es.wikipedia.org/wiki/Sof%C3%ADa_Paiz#">
+          
+        </a>
+    </p>
+
+</body>
+</html>
