@@ -11,7 +11,7 @@ p{
     color: #933;
 }
 a{
-    outline: 1px solid #333;
+    outline: 1px solid #333 !important;
 }
 body p.fuente.parrafo{
     opacity: 100% !important;
