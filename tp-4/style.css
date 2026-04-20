@@ -1,0 +1,57 @@
+@media screen and (min-width: 401px){
+  body{
+    background-color: rgb(40, 60, 80);
+  }
+}
+@media screen and (max-width: 799px){
+  h1{
+    text-align: center;
+  }
+}
+@media screen and (orientation: landscape){
+  article{
+    max-width: 50ch;
+  }
+}
+@media screen and (min-height: 200px){
+  h1{
+    background-color: #771325;
+  }
+}
+@media print{
+  p{
+    font-family: serif;
+  }
+}
+@media (prefers-color-scheme: light){
+  body{
+    color: #111;
+    background-color: #DDD;
+  }
+  h1{
+    color: #111;
+  }
+}
+@media screen and (hover: none) and (pointer: coarse){
+  a{
+    background-color: #212;
+    padding: 2px 5px;
+    display: inline-block;
+  }
+}
+@media screen and (min-width: 800px) and (max-width: 899px){
+  figure img{
+    display: none;
+  }
+}
+@media screen and (min-width: 200px) and (max-width: 400px){
+  img{
+    height: 400px;
+    object-fit: cover;
+  }
+}
+@media screen and (min-resolution: 2dppx){
+  article{
+    background-color: #667;
+  }
+}
